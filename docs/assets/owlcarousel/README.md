@@ -1,4 +1,4 @@
-# Owl Carousel 2
+# Owl Carousel 1
 
 Touch enabled [jQuery](https://jquery.com/) plugin that lets you create a beautiful, responsive carousel slider. **To get started, check out https://owlcarousel2.github.io/OwlCarousel2/.**
 
