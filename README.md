@@ -13,7 +13,7 @@ This package can be installed with:
 - [npm](https://www.npmjs.com/package/owl.carousel): `npm install --save owl.carousel` or `yarn add owl.carousel jquery`
 - [bower](http://bower.io/search/?q=owl.carousel): `bower install --save owl.carousel`
 
-Or download the [latest release](https://github.com/OwlCarousel2/OwlCarousel2/releases).
+Or download the [latest release](https://github.com/bagussatoto/OwlCarousel1/releases).
 
 ### Load
 
@@ -114,7 +114,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Roadmap
 
-Please make sure to check out our [Roadmap Discussion](https://github.com/OwlCarousel2/OwlCarousel2/issues/1756).
+Please make sure to check out our [Roadmap Discussion](https://github.com/bagussatoto/OwlCarousel1/issues/1756).
 
 
 ## License
