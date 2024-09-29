@@ -1,13 +1,13 @@
 /**
  * Owl Carousel v2.3.4
- * Copyright 2013-2018 David Deutsch
+ * Copyright 2013-2025 Bagus Budi Satoto
  * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
  */
 /**
  * Owl carousel
  * @version 2.3.4
  * @author Bartosz Wojciechowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  * @todo Lazy Load Icon
  * @todo prevent animationend bubling
@@ -1758,7 +1758,7 @@
  * AutoRefresh Plugin
  * @version 2.3.4
  * @author Artus Kolanowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -1870,7 +1870,7 @@
  * Lazy Plugin
  * @version 2.3.4
  * @author Bartosz Wojciechowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -2020,7 +2020,7 @@
  * AutoHeight Plugin
  * @version 2.3.4
  * @author Bartosz Wojciechowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -2153,7 +2153,7 @@
  * Video Plugin
  * @version 2.3.4
  * @author Bartosz Wojciechowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -2481,7 +2481,7 @@
  * Animate Plugin
  * @version 2.3.4
  * @author Bartosz Wojciechowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -2604,7 +2604,7 @@
  * @version 2.3.4
  * @author Bartosz Wojciechowski
  * @author Artus Kolanowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @author Tom De Caluwé
  * @license The MIT License (MIT)
  */
@@ -2837,7 +2837,7 @@
  * Navigation Plugin
  * @version 2.3.4
  * @author Artus Kolanowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -3244,7 +3244,7 @@
  * Hash Plugin
  * @version 2.3.4
  * @author Artus Kolanowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
@@ -3369,7 +3369,7 @@
  * @version 2.3.4
  * @author Vivid Planet Software GmbH
  * @author Artus Kolanowski
- * @author David Deutsch
+ * @author Bagus Budi Satoto
  * @license The MIT License (MIT)
  */
 ;(function($, window, document, undefined) {
