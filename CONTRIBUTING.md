@@ -1,6 +1,6 @@
 ## Contributing
 
-The [issue tracker](https://github.com/OwlCarousel2/OwlCarousel2/issues) is the preferred channel for bug reports, feature requests, and submitting pull requests.
+The [issue tracker](https://github.com/bagussatoto/OwlCarousel1/issues) is the preferred channel for bug reports, feature requests, and submitting pull requests.
 
 **Please do not use the issue tracker for personal support requests. Stack Overflow ([`owl-carousel`](https://stackoverflow.com/questions/tagged/owl-carousel)) is a better place to get help.**
 
@@ -34,7 +34,7 @@ Example:
 
 Feature requests are welcome, but please take a moment to find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature.
 
-To get approval for your feature request, please create an issue on the issue tracker with as much detail and context as possible. We'll take a look at it and then [hopefully] apply the "[approved for development](https://github.com/OwlCarousel2/OwlCarousel2/labels/approved%20for%20development)" tag so someone can get to work on it!
+To get approval for your feature request, please create an issue on the issue tracker with as much detail and context as possible. We'll take a look at it and then [hopefully] apply the "[approved for development](https://github.com/bagussatoto/OwlCarousel1/labels/approved%20for%20development)" tag so someone can get to work on it!
 
 ### Pull requests
 
@@ -45,9 +45,9 @@ Adhering to the following process is the best way to get your work included in t
   1. [Fork](https://help.github.com/fork-a-repo/) the project, clone your fork, and configure the remotes:
 
     ```bash
-    git clone https://github.com/<your-username>/OwlCarousel2.git
-    cd OwlCarousel2
-    git remote add upstream https://github.com/OwlCarousel2/OwlCarousel2.git
+    git clone https://github.com/<your-username>/OwlCarousel1.git
+    cd OwlCarousel1
+    git remote add upstream https://github.com/bagussatoto/OwlCarousel1.git
     ```
 
   2. If you cloned a while ago, get the latest changes from upstream:
